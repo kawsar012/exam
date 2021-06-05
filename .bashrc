@@ -50,4 +50,4 @@ if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
 fi
 
-cd /storage/emulatd/0/
+cd /storage/emulated/0/
