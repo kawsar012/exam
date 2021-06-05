@@ -1,4 +1,4 @@
 #!/bin/sh
 
 pkg update
-tmux-setup-storage
+termux-setup-storage
